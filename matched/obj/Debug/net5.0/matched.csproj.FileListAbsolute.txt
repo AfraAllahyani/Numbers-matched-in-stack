@@ -1,0 +1,15 @@
+/Users/afra/Projects/matched/matched/bin/Debug/net5.0/matched.deps.json
+/Users/afra/Projects/matched/matched/bin/Debug/net5.0/matched.runtimeconfig.json
+/Users/afra/Projects/matched/matched/bin/Debug/net5.0/matched.runtimeconfig.dev.json
+/Users/afra/Projects/matched/matched/bin/Debug/net5.0/matched.dll
+/Users/afra/Projects/matched/matched/bin/Debug/net5.0/ref/matched.dll
+/Users/afra/Projects/matched/matched/bin/Debug/net5.0/matched.pdb
+/Users/afra/Projects/matched/matched/obj/Debug/net5.0/matched.csprojAssemblyReference.cache
+/Users/afra/Projects/matched/matched/obj/Debug/net5.0/matched.GeneratedMSBuildEditorConfig.editorconfig
+/Users/afra/Projects/matched/matched/obj/Debug/net5.0/matched.AssemblyInfoInputs.cache
+/Users/afra/Projects/matched/matched/obj/Debug/net5.0/matched.AssemblyInfo.cs
+/Users/afra/Projects/matched/matched/obj/Debug/net5.0/matched.csproj.CoreCompileInputs.cache
+/Users/afra/Projects/matched/matched/obj/Debug/net5.0/matched.dll
+/Users/afra/Projects/matched/matched/obj/Debug/net5.0/ref/matched.dll
+/Users/afra/Projects/matched/matched/obj/Debug/net5.0/matched.pdb
+/Users/afra/Projects/matched/matched/obj/Debug/net5.0/matched.genruntimeconfig.cache
